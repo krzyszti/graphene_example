@@ -1,0 +1,10 @@
+[flake8]
+exclude =
+    .git,
+    __pycache__,
+    venv/,
+    .idea,
+    requirements.txt,
+    db.sqlite3,
+    manage.py
+max-line-length = 120

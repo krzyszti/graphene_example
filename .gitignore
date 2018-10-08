@@ -1,0 +1,13 @@
+# Project settings
+.idea/
+
+# Virtualenv
+venv/
+
+# Temporary files
+*.pyc
+__pycache__
+staticfiles/
+
+# development database
+db.sqlite3
